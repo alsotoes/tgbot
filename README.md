@@ -1,2 +1,2 @@
 # tgbot
-Telegram bot to run task
+Telegram bot to run tasks
